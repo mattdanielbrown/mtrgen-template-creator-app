@@ -28,7 +28,7 @@
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.31",
     "postcss-nesting": "^11.1.0",
-    "typescript": "^4.6.4",
+    "typescript": "^5.9.2",
     "vite": "^6.3.4"
   }
 }
